@@ -1,6 +1,6 @@
-"""
+'''
     Print é uma função de Python para exibir mensagens em sua saida padrão.
-"""
+'''
 print('')  # print sem argumento
 print('Um simples texto.')  # print com um argumento do tipo strings
 print('um', 'dois', 'três')  # print com varios agumentos do tipo strings
